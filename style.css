@@ -1,0 +1,23 @@
+body{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+        font-size: 50px;
+}
+
+.name-heilight{
+    color: rgb(223, 134, 17);
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+   margin-left: 2px;
+    padding: left 1px; 
+}
+
+.half-width img{
+    width: 50%;
+}
